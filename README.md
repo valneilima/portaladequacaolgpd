@@ -144,6 +144,22 @@ add_action('wp_footer', function() {
     </div>
 </div>
 
+
+dashboard-governance.html
+web-app
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    </div>
+    <div class="content">
+        <h1>Painel de Governança Antigravity</h1>
+        <h1>Painel de Governança LGPD</h1>
+        <div class="stats-grid">
+            <div class="stat-card">
+</body>
+</html>
+
 </body>
 </html>
 
